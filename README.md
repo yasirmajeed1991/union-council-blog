@@ -17,6 +17,7 @@ Union Council Dashboard
   - User authentication 
   - Union Council Dashboard
   - Dashboard included all the metropolitan data
+  - Application Developed in Php MySql
 
 ## Installation
 
