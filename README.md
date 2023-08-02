@@ -1,6 +1,6 @@
 # Project Name
 
-Union Council Dashboard
+Union Council Dashboard Developed in Php Mysql
 
 ## Table of Contents
 
@@ -28,6 +28,11 @@ To install the project:
 3.  Upload the MySQL database to the phpmyadmin
 4.  Change the database details in config file
 5.  Once all the above steps completed you are good to go.
+
+## Usage
+![Project](LoginPage.png)
+![Project](Dashboard.png)
+![Project](FrontPage.png)
    
 ## Credentails
 Username: admin@admin.com
